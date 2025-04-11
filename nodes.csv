@@ -1,5 +1,4 @@
 "labels","uri","name","type"
-"[""_GraphConfig""]","","",""
 "[""Resource"",""http://www.w3.org/2002/07/owl#ObjectProperty""]","http://www.cidoc-crm.org/cidoc-crm/P137_exemplifies","",""
 "[""Resource"",""http://www.w3.org/2002/07/owl#ObjectProperty""]","http://www.cidoc-crm.org/cidoc-crm/P7i_witnessed","",""
 "[""Resource"",""http://www.w3.org/2002/07/owl#ObjectProperty""]","http://www.cidoc-crm.org/cidoc-crm/P67_refers_to","",""
